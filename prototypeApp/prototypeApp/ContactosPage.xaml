@@ -5,8 +5,8 @@
              Title="Contactos">
     <ContentPage.Content>
         <StackLayout>
-            <Image Source="pedidos.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Image>
-            <Label Text="Esta es la pa'gina de pedidos" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
+            <Image Source="contacts.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"></Image>
+            <Label Text="Esta es la página de contactos" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

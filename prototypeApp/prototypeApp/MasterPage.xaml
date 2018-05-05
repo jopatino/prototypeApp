@@ -12,7 +12,7 @@
                 <ListView.ItemsSource>
                     <x:Array Type="{x:Type local:MasterPageItem}">
                         <local:MasterPageItem Titulo="Pedidos" Icono="pedidos.png" TipoPagina="{x:Type local:PedidosPage}"></local:MasterPageItem>
-                        <local:MasterPageItem Titulo="Contactos" Icono="contacts.png" TipoPagina="{x:Type local:Contactos}"></local:MasterPageItem>
+                        <local:MasterPageItem Titulo="Contactos" Icono="contacts.png" TipoPagina="{x:Type local:ContactosPage}"></local:MasterPageItem>
                         <local:MasterPageItem Titulo="About" Icono="about.png" TipoPagina="{x:Type local:About}"></local:MasterPageItem>
                     </x:Array>
                 </ListView.ItemsSource>
